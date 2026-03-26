@@ -20,7 +20,6 @@ You are encouraged to follow the steps you learned throughout this UX UI course.
 
    ![](images/user_journal_map.png "user journal map")
 
-6. Use research to inform design concepts and identify what features are required.
 
 ### Design and functionality
 
