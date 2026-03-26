@@ -18,19 +18,35 @@ You are encouraged to follow the steps you learned throughout this UX UI course.
 
 4. Create a [user journey map](https://www.figma.com/board/FpEzULoT4aphUn4B2pMHGD/mapLittleLemon?t=gqVZIlAMmd1Gj5oe-).
 
-   ![]( "user journal map")
+   ![](images/user_journal_map.png "user journal map")
 
 6. Use research to inform design concepts and identify what features are required.
 
 ### Design and functionality
 
-1. Create low-fidelity wireframes in Figma to define the features and functionality of the reserve-a-table element.
-2. You should create a minimum of two wireframes
+1. Create [low-fidelity wireframes](https://www.figma.com/proto/ATi3XOdIfH4tGYI3BXVGml/Little-Lemon-wire-frame?node-id=0-1&t=gqVZIlAMmd1Gj5oe-1) in Figma to define the features and functionality of the reserve-a-table element.
+   
+2. Create an interactive, [high-fidelity visual design Prototype](https://www.figma.com/proto/HUktLxzcR7G2vop2uDT7U1/little-lemon-proto?t=nN0t8U06PS8PD7Nc-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&node-id=1-36&starting-point-node-id=1%3A36) in Figma for the reserve-a-table feature of the Little Lemon website, considering all the best practice design principles learned within the course.
+   
+### Wire frames
 
-3. Create an interactive, high-fidelity visual design Prototype in Figma for the reserve-a-table feature of the Little Lemon website, considering all the best practice design principles learned within the course. 
+### Prototype
+* * * * *
+Home page.
+* * * * *
 
-4. Include at least two interactive components such as the button and radio buttons already created in a previous exercise. Link the pages together, starting from the reserve table button on the home screen.
+ ![](images/HOME.png "Home")
 
-5. Link at least two screens together.
+* * * * *
+Reservation screen.
+* * * * *
+ 
+ ![](images/RESERVATION.png "Reseration")
 
- ### Solution  
+* * * * *
+Confirmation screen.
+* * * * *
+
+ ![](images/CONFIRM.png "Confirmation")
+
+ 
