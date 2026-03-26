@@ -14,7 +14,7 @@ You are encouraged to follow the steps you learned throughout this UX UI course.
 
 2. Use research to create a persona and a journey map representing your target market. Think about who your users may be and why they would want to reserve a table online.
 
-3. Create a [user persona.](images/PersonaTemplate.pdf "person")
+3. Create a [user persona.](https://www.figma.com/design/c3opoiUQY62GPdOS3wXIbM/Person?m=auto&t=4DM84OMtVxXH8KJH-6)
 
 4. Create a [user journey map](https://www.figma.com/board/FpEzULoT4aphUn4B2pMHGD/mapLittleLemon?t=gqVZIlAMmd1Gj5oe-).
 
