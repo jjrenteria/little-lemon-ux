@@ -16,9 +16,11 @@ You are encouraged to follow the steps you learned throughout this UX UI course.
 
 3. Create a user persona.
 
-4. Create a user journey map.
+4. Create a [user journey map](https://www.figma.com/board/FpEzULoT4aphUn4B2pMHGD/mapLittleLemon?t=gqVZIlAMmd1Gj5oe-).
 
-5. Use research to inform design concepts and identify what features are required.
+   ![]( "user journal map")
+
+6. Use research to inform design concepts and identify what features are required.
 
 ### Design and functionality
 
